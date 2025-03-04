@@ -451,6 +451,13 @@ em {font-style:normal;}
 
 
 /*-- body bkg ---*/
+body {background: none);
+background-color:#e5e5e5;
+background-size: 128px 128px;}
+
+.separator:nth-child(1) {width:100%;float:left; margin-top:10px; padding-left:3%; font-family:arial;}
+
+.separator {font-size: .6em; width:100%;float:left; margin-top:30px; padding-left:3%; font-family:arial;}/*-- body bkg ---*/
 body
 
 .separator:nth-child(1) {width:100%;float:left; margin-top:10px; padding-left:3%; font-family:arial;}
